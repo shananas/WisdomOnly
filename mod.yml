@@ -1,6 +1,6 @@
 title: Wisdom Only
 original Author: Shananas
-description: Play as Wisdom Form the whole time. (Except Pride Lands and Atlantica)
+description: Play as Wisdom Form the whole time (Except Pride Lands and Atlantica). If you want to play without KH2Randomizer you must also install "shananas/FormOnlyVanillaCompanion" and place it above this mod.
 assets:
 #Luxord Fix
 - name: scripts/WisdomLuxordFix.lua
@@ -58,4 +58,5 @@ assets:
     method: listpatch
     source:
     - name: 00battle.bin/PlrpList.yml
+
       type: plrp
